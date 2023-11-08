@@ -14,7 +14,9 @@ Quick and easy way to assess your password's strength.
 Usage:
 
 Clone this repository.
+
     ->  git clone https://github.com/CyberMystic-Jude/PasswordStrengthChecker
+    
     ->  cd PasswordStrengthChecker
     
 Run the tool in your terminal with the command: python PassStrenCheck.py -p [password]
