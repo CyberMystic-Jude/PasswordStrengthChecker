@@ -19,7 +19,10 @@ Clone this repository.
     
     ->  cd PasswordStrengthChecker
     
-Run the tool in your terminal with the command: python PassStrenCheck.py -p [password]
+Run the tool in your terminal with the command: 
+
+    ->  python PassStrenCheck.py -p [password]
+    
 Receive instant feedback on the strength of your password.
 Note: Replace [password] with the password you want to check.
 
